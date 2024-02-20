@@ -1,0 +1,16 @@
+{
+  "name": "namisha_package",
+  "version": "1.0.2",
+  "description": "own package testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "package"
+  ],
+  "author": "Namisha Gurunani",
+  "license": "ISC"
+}
